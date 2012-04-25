@@ -1,0 +1,14 @@
+
+===========================================================================
+
+Metadata for the file:   etopo1min139E147E34N41N.asc
+
+Obtained from:           http://www.ngdc.noaa.gov/mgg/gdas/gd_designagrid.html
+Date:                    March 11, 2011
+
+Header:
+
+Description:
+
+File size: 
+===========================================================================

@@ -1,0 +1,23 @@
+
+===========================================================================
+
+Metadata for the file:   etopo4min120E72W40S60N.asc
+
+Obtained from:           http://www.ngdc.noaa.gov/mgg/gdas/gd_designagrid.html
+Date:                    March 14, 2011
+
+Header:
+
+2521 ncols
+1501 nrows
+120.0 xll
+-40.0 yll
+0.06666667 cellsize
+-32768 nodata_value
+
+Description:
+
+Pacific Ocean for modeling all DART buoys.
+
+File size: 26MB
+===========================================================================
