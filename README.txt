@@ -9,10 +9,10 @@ Tanioka
 
 Submitted to Bulletin of the Seismological Society of America, 31 March 2012
 Published in 103(2013), pp. 1256-1274. See
-* http://www.bssaonline.org/content/103/2B/1256.abstract?stoc
-
+  http://www.bssaonline.org/content/103/2B/1256.abstract
+ 
 See also the electronic supplements at:
-* http://www.bssaonline.org/content/103/2B/1256/suppl/DC1
+  http://www.bssaonline.org/content/103/2B/1256/suppl/DC1
 
 
 topo directory contains topo files (bathymetry/topography)
