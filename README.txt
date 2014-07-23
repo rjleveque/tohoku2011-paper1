@@ -8,9 +8,11 @@ by Breanyn T MacInnes, Aditya Riadi Gusman, Randall J LeVeque, Yuichiro
 Tanioka 
 
 Submitted to Bulletin of the Seismological Society of America, 31 March 2012
+Published in 103(2013), pp. 1256-1274. See
+* http://www.bssaonline.org/content/103/2B/1256.abstract?stoc
 
 See also the electronic supplements at:
-  http://faculty.washington.edu/rjl/macinnes-esupp/
+* http://www.bssaonline.org/content/103/2B/1256/suppl/DC1
 
 
 topo directory contains topo files (bathymetry/topography)
